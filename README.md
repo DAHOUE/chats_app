@@ -1,5 +1,3 @@
-# chats_app
-=======
 # chap_app
 
 A new Flutter project.
